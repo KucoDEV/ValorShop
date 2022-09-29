@@ -4,7 +4,7 @@ Consultez votre boutique quotidienne Valorant dans le confort de votre lit, déf
 Facile à utiliser, possède de nombreuses fonctionnalités et est utilisé par les petits et les grands bots.
 
 <img src="https://cdn.discordapp.com/attachments/1023325600338948186/1023628917682212965/unknown.png" alt="shop" width="504" >  
-<img src="Image Alert" alt="alert" width="633" >
+<img src="https://cdn.discordapp.com/attachments/1023325600338948186/1025101803647402024/unknown.png" alt="alert" width="633" >
 
 
 <details>
