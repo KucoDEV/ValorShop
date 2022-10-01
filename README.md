@@ -40,10 +40,24 @@ N'hésitez pas à rejoindre le serveur de [support](https://dsc.gg/valorshop) po
   - Utilisé par les grands bot, hautement évolutif
   - Prend entièrement en charge le partage
 
+## Commandes
+
+`/shop`・Montre votre boutique actuel
+`/nightmarket`・Montre votre Night Market
+`/bundles`・Montre le pack actuel
+`/bundle`・Montre un pack spécifique
+`/collection`・Montre votre collection
+`/balance`・Montre combien de VALORANT Points et de RADIANITES vous avez
+`/alert`・Active une alerte pour un skin
+`/battlepass`・Montre votre progression du pass de combat
+`/accounts`・Montre tous les comptes disponibles
+`/account`・Changer de compte Valorant
+**Et plus encore !**
+
 ### Informations utiles
 
-- Le déploiement dans la guilde se produit instantanément mais les commandes ne peuvent être utilisées que dans cette guilde. Le déploiement global peut prendre jusqu'à une heure en raison de la mise en cache de Discord. 
-  - Si vous avez déployé à la fois globalement et dans une guilde, vous verrez chaque commande deux fois. Dans ce cas, envoyez simplement `!undeploy guild`.
+- Le déploiement dans la guilde se produit instantanément mais les commandes ne peuvent être utilisées que dans cette guilde. Le déploiement global peut prendre jusqu'à une heure en raison de la mise en cache de Discord.
+    [?] Si vous avez chaque commande deux fois. Veuillez contacter quelqu'un sur le serveur de support.
 
 - Le bot ne stocke pas votre nom d'utilisateur/mot de passe, il les utilise uniquement pour obtenir les cookies qui peuvent être utilisés pour générer des jetons d'accès nécessaires pour accéder à votre boutique.
 
