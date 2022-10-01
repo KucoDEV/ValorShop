@@ -54,7 +54,7 @@ N'hésitez pas à rejoindre le serveur de [support](https://dsc.gg/valorshop) po
 `/account`・Changer de compte Valorant
 **Et plus encore !**
 
-### Informations utiles
+## Informations utiles
 
 - Le déploiement dans la guilde se produit instantanément mais les commandes ne peuvent être utilisées que dans cette guilde. Le déploiement global peut prendre jusqu'à une heure en raison de la mise en cache de Discord.
     [?] Si vous avez chaque commande deux fois. Veuillez contacter quelqu'un sur le serveur de support.
