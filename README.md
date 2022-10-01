@@ -58,7 +58,7 @@ N'hésitez pas à rejoindre le serveur de [support](https://dsc.gg/valorshop) po
 ## Informations utiles
 
 - Le déploiement dans la guilde se produit instantanément mais les commandes ne peuvent être utilisées que dans cette guilde. Le déploiement global peut prendre jusqu'à une heure en raison de la mise en cache de Discord.
-    [?] Si vous avez chaque commande deux fois. Veuillez contacter quelqu'un sur le serveur de support.
+  - Si vous avez chaque commande deux fois. Veuillez contacter quelqu'un sur le serveur de support.
 
 - Le bot ne stocke pas votre nom d'utilisateur/mot de passe, il les utilise uniquement pour obtenir les cookies qui peuvent être utilisés pour générer des jetons d'accès nécessaires pour accéder à votre boutique.
 
