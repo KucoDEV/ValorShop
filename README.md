@@ -49,7 +49,7 @@ N'hésitez pas à rejoindre le serveur de [support](https://dsc.gg/valorshop) po
 `/collection`・Montre votre collection
 `/balance`・Montre combien de VALORANT Points et de RADIANITES vous avez
 `/alert`・Active une alerte pour un skin
-`/battlepass`・Montre votre progression du pass de combat
+`/battlepass`・Montre votre progression du pass de combat\n
 `/accounts`・Montre tous les comptes disponibles
 `/account`・Changer de compte Valorant
 **Et plus encore !**
