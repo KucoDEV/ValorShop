@@ -42,16 +42,17 @@ N'hésitez pas à rejoindre le serveur de [support](https://dsc.gg/valorshop) po
 
 ## Commandes
 
-`/shop`・Montre votre boutique actuel
-`/nightmarket`・Montre votre Night Market
-`/bundles`・Montre le pack actuel
-`/bundle`・Montre un pack spécifique
-`/collection`・Montre votre collection
-`/balance`・Montre combien de VALORANT Points et de RADIANITES vous avez
-`/alert`・Active une alerte pour un skin
-`/battlepass`・Montre votre progression du pass de combat\n
-`/accounts`・Montre tous les comptes disponibles
-`/account`・Changer de compte Valorant
+- `/shop`・Montre votre boutique actuel
+- `/nightmarket`・Montre votre Night Market
+- `/bundles`・Montre le pack actuel
+- `/bundle`・Montre un pack spécifique
+- `/collection`・Montre votre collection
+- `/balance`・Montre combien de VALORANT Points et de RADIANITES vous avez
+- `/alert`・Active une alerte pour un skin
+- `/battlepass`・Montre votre progression du pass de combat
+- `/accounts`・Montre tous les comptes disponibles
+- `/account`・Changer de compte Valorant
+
 **Et plus encore !**
 
 ## Informations utiles
